@@ -2,6 +2,9 @@
 
 文字列を様々なケースに変換するWebアプリケーション
 
+# Deno Deploy EA
+https://case-change-kun.seri-jig.deno.net/
+
 ## 機能
 
 入力した文字列をリアルタイムで以下のケースに変換:
